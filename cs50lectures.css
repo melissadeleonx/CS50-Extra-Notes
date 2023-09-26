@@ -1,0 +1,23 @@
+/* cs50lectures.css */
+.my-box {
+    padding: 100px;
+    border: 1px solid #000;
+}
+p {
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 1200px;
+    margin-bottom: 10px;
+    font-size: 18px
+}
+.centered-paragraph {
+    text-align: center;
+    padding: 30px;
+  }
+ul {
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 1000px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
