@@ -1,4 +1,4 @@
-# CS50 Lecture Notes
+# CS50 Extra Notes (Lectures and Shorts)
 
 Welcome to the CS50 Lecture Notes repository by melissadeleonx!
 
